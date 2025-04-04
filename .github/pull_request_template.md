@@ -4,7 +4,7 @@ Briefly describe the changes you're making and why.
 
 ## 🧠 Related Issues
 
-Fixes #<issue_number>  
+Fixes #<issue_number>
 
 
 ## ✅ Checklist
@@ -17,6 +17,3 @@ Fixes #<issue_number>
 ## 📸 Screenshots (if applicable)
 
 Paste any screenshots or CLI logs here.
-
-
-
