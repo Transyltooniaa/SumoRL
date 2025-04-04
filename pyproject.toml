@@ -1,5 +1,5 @@
 [project]
-name = "your_project_name"
+name = "SumoRL"
 description = "Short description of your project"
 authors = [{ name = "Your Name", email = "your.email@example.com" }]
 readme = "README.md"
@@ -23,10 +23,11 @@ dependencies = [
 ]
 
 [project.urls]
-homepage = "https://github.com/yourusername/yourproject"
-documentation = "https://github.com/yourusername/yourproject"
-source_code = "https://github.com/yourusername/yourproject"
-bug_tracker = "https://github.com/yourusername/yourproject/issues"
+homepage      = "https://github.com/Transyltooniaa/SumoRL"
+bug_tracker   = "https://github.com/Transyltooniaa/SumoRL/issues"
+documentation = "https://github.com/Transyltooniaa/SumoRL"
+source_code   = "https://github.com/Transyltooniaa/SumoRL"
+user_support  = "https://github.com/Transyltooniaa/SumoRL/issues"
 
 [project.optional-dependencies]
 dev = [
